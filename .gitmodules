@@ -8,6 +8,9 @@
 [submodule "geocomplexity"]
 	path = geocomplexity
 	url = https://github.com/ausgis/geocomplexity
+[submodule "geosimilarity"]
+	path = geosimilarity
+	url = https://github.com/ausgis/geosimilarity
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/SpatLyu/sdsfun
