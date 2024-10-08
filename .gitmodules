@@ -14,3 +14,7 @@
 [submodule "geosimilarity"]
 	path = geosimilarity
 	url = https://github.com/ausgis/geosimilarity
+[submodule "sdsfun"]
+	path = sdsfun
+	url = https://github.com/stscl/sdsfun
+	registered = false
