@@ -8,9 +8,6 @@
 [submodule "SecDim"]
 	path = SecDim
 	url = https://github.com/ausgis/SecDim
-[submodule "cisp"]
-	path = cisp
-	url = https://github.com/ausgis/cisp
 [submodule "geocomplexity"]
 	path = geocomplexity
 	url = https://github.com/ausgis/geocomplexity
